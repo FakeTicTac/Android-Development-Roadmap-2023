@@ -1,2 +1,3 @@
-# Android-Development-Roadmap-2023
-Documenting my journey learning Android development from scratch, providing a curated resource directory, showcasing projects, and fostering a community of collaborative learning and growth.
+# Android Development Roadmap 2023
+
+Welcome to the Android Development Roadmap 2023! This open-source project chronicles my journey of learning Android development from scratch, aiming to become proficient by the end of 2023. This roadmap serves as both a personal tracker and a communal guide for anyone embarking on a similar journey.

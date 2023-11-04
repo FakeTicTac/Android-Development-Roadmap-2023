@@ -15,6 +15,6 @@ fun main() {
     println("There is $popcornLovers people that love popcorn.")
 
     // Some people stopped loving popcorn.
-    popcornLovers = 5
+    popcornLovers = 5 
     println("There is only $popcornLovers people that love popcorn now!")
 }
